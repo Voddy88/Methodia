@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Methodia.iml" filepath="$PROJECT_DIR$/.idea/Methodia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reverseString/reverseString.iml" filepath="$PROJECT_DIR$/reverseString/reverseString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wordsNumber/wordsNumber.iml" filepath="$PROJECT_DIR$/wordsNumber/wordsNumber.iml" />
-    </modules>
-  </component>
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://$PROJECT_DIR$/.idea/Methodia.iml" filepath="$PROJECT_DIR$/.idea/Methodia.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/reverseString/reverseString.iml"
+                    filepath="$PROJECT_DIR$/reverseString/reverseString.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/wordsNumber/wordsNumber.iml"
+                    filepath="$PROJECT_DIR$/wordsNumber/wordsNumber.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/arrayListIteration/arrayListIteration.iml"
+                    filepath="$PROJECT_DIR$/arrayListIteration/arrayListIteration.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/duplicateSymbols/duplicateSymbols.iml"
+                    filepath="$PROJECT_DIR$/duplicateSymbols/duplicateSymbols.iml"/>
+        </modules>
+    </component>
 </project>
